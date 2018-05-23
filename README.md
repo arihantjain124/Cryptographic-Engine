@@ -6,3 +6,9 @@ As it works in binary mode it can work on any format of file such as docx,mp4,ex
 
 It Encrypts the data of the files according to the alphanumeric key you enter during ecryption.
 To decrypt the data use the same alphanumeric key you used during encryption.
+
+
+
+
+
+The loading fuctions at the start of the working are just for Looks and have no importance to the main working of the program.
